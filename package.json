@@ -11,6 +11,10 @@
   "keywords": [],
   "author": "Eigen",
   "license": "ISC",
+  "funding": {
+    "type": "custom",
+    "url": "https://eigentool.vercel.app/support"
+  },
   "type": "module",
   "dependencies": {
     "@tailwindcss/postcss": "^4.2.1",
@@ -19,6 +23,7 @@
     "eslint": "^10.0.2",
     "next": "^16.1.6",
     "postcss": "^8.5.8",
+    "qrcode.react": "^4.2.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "tailwindcss": "^4.2.1",
