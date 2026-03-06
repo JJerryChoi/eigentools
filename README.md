@@ -8,6 +8,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
 [![License: ISC](https://img.shields.io/badge/License-ISC-green.svg)](https://opensource.org/licenses/ISC)
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?logo=github-sponsors)](https://github.com/sponsors/JJerryChoi)
 
 [**eigentools.vercel.app**](https://eigentools.vercel.app)
 
@@ -75,6 +76,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 If you find EigenTools useful, consider supporting the project:
 
+- [Sponsor on GitHub](https://github.com/sponsors/JJerryChoi) (zero platform fees)
 - Visit the [Support page](https://eigentools.vercel.app/support)
 - Send ETH to `0xd451913DEc56abddA328DeBE412AdfdB6Ba815Ad`
 
