@@ -13,7 +13,7 @@
   "license": "ISC",
   "funding": {
     "type": "custom",
-    "url": "https://eigentool.vercel.app/support"
+    "url": "https://eigentools.vercel.app/support"
   },
   "type": "module",
   "dependencies": {
