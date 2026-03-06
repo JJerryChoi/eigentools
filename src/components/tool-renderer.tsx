@@ -8,6 +8,12 @@ import { UuidGenerator } from "@/components/tools/uuid-generator";
 import { HashGenerator } from "@/components/tools/hash-generator";
 import { RegexTester } from "@/components/tools/regex-tester";
 import { TimestampConverter } from "@/components/tools/timestamp-converter";
+import { ColorConverter } from "@/components/tools/color-converter";
+import { MarkdownPreview } from "@/components/tools/markdown-preview";
+import { DiffChecker } from "@/components/tools/diff-checker";
+import { YamlJsonConverter } from "@/components/tools/yaml-json";
+import { CsvToJson } from "@/components/tools/csv-json";
+import { CronParser } from "@/components/tools/cron-parser";
 
 const toolComponents: Record<string, React.ComponentType> = {
   "json-formatter": JsonFormatter,
@@ -18,6 +24,12 @@ const toolComponents: Record<string, React.ComponentType> = {
   "hash-generator": HashGenerator,
   "regex-tester": RegexTester,
   "timestamp-converter": TimestampConverter,
+  "color-converter": ColorConverter,
+  "markdown-preview": MarkdownPreview,
+  "diff-checker": DiffChecker,
+  "yaml-json": YamlJsonConverter,
+  "csv-json": CsvToJson,
+  "cron-parser": CronParser,
 };
 
 export function ToolRenderer({ slug }: { slug: string }) {
