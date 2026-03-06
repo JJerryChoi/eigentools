@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://eigentools.dev";
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://eigentools.vercel.app";
 
 export default function robots(): MetadataRoute.Robots {
   return {

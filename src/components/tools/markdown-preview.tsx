@@ -26,7 +26,7 @@ console.log(greeting);
 
 > Blockquotes work too!
 
-Visit [EigenTools](https://eigentools.dev) for more tools.
+Visit [EigenTools](https://eigentools.vercel.app) for more tools.
 `;
 
 export function MarkdownPreview() {
